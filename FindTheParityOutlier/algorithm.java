@@ -1,21 +1,19 @@
-import java.util.HashMap;
-
 class Kata {
     public static int find(int[] integers) {
-        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
-        int odd = 0;
+        int odd = 0, even = 0;
+        int oddCnt = 0;
 
         for (int i:integers) {
             if (i % 2 == 0) {
-                map.put(0, i);
+                even = i;
                 continue;
             }            
-
-            map.put(1, i);
-            odd++;
+            
+            odd = i;
+            oddCnt++;
         }
 
-        return (odd != 1) ? map.get(0) : map.get(1);
+        return (oddCnt != 1) ? even : odd;
     }
 }
 
