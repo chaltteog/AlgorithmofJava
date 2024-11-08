@@ -8,3 +8,5 @@ AlgorithmofJava
 * Find The Parity Outlier - CodeWars
 ### 2021-11-07
 * Multiples of 3 or 5 - CodeWars
+### 2021-11-08
+* Reverse words - CodeWars
