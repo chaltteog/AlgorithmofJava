@@ -10,3 +10,5 @@ AlgorithmofJava
 * Multiples of 3 or 5 - CodeWars
 ### 2021-11-08
 * Reverse words - CodeWars
+### 2021-11-09
+* Vowel Count - CodeWars
