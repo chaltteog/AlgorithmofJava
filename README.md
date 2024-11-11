@@ -1,14 +1,17 @@
-AlgorithmofJava
-===========
-# 자바를 사용한 algorithm Study
+> # **AlgorithmofJava**
+> ## 자바를 사용한 algorithm Study
+---
 ## 2024-11
 ### 2021-11-04
-* Even or Odd - CodeWars
+* **Even or Odd - CodeWars**
 ### 2021-11-05
-* Find The Parity Outlier - CodeWars
+* **Find The Parity Outlier - CodeWars**
 ### 2021-11-07
-* Multiples of 3 or 5 - CodeWars
+* **Multiples of 3 or 5 - CodeWars**
 ### 2021-11-08
-* Reverse words - CodeWars
+* **Reverse words - CodeWars**
 ### 2021-11-09
-* Vowel Count - CodeWars
+* **Vowel Count - CodeWars**
+### 2021-11-11
+* **Disemvowel Trolls - CodeWars**
+---
