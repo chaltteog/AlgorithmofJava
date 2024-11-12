@@ -14,4 +14,6 @@
 * **Vowel Count - CodeWars**
 ### 2021-11-11
 * **Disemvowel Trolls - CodeWars**
+### 2021-11-12
+* **Stop gninnipS My sdroW! - CodeWars**
 ---
