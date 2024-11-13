@@ -16,4 +16,6 @@
 * **Disemvowel Trolls - CodeWars**
 ### 2021-11-12
 * **Stop gninnipS My sdroW! - CodeWars**
+### 2021-11-13
+* **Square Every Digit - CodeWars**
 ---
