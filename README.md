@@ -20,4 +20,6 @@
 * **Square Every Digit - CodeWars**
 ### 2021-11-14
 * **Split Strings - CodeWars**
+### 2021-11-15
+* **Who likes it? - CodeWars**
 ---
