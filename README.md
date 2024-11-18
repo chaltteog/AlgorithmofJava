@@ -24,4 +24,6 @@
 * **Who likes it? - CodeWars**
 ### 2021-11-16
 * **Changing letters - CodeWars**
+### 2021-11-18
+* **Find The Odd Int - CodeWars**
 ---
