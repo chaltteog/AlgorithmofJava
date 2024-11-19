@@ -26,4 +26,6 @@
 * **Changing letters - CodeWars**
 ### 2021-11-18
 * **Find The Odd Int - CodeWars**
+### 2021-11-19
+* **Array.Diff - CodeWars**
 ---
