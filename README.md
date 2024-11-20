@@ -28,4 +28,6 @@
 * **Find The Odd Int - CodeWars**
 ### 2021-11-19
 * **Array.Diff - CodeWars**
+### 2021-11-20
+* **Sum of Digits / Digital Root  - CodeWars**
 ---
