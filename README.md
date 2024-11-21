@@ -29,5 +29,7 @@
 ### 2021-11-19
 * **Array.Diff - CodeWars**
 ### 2021-11-20
-* **Sum of Digits / Digital Root  - CodeWars**
+* **Sum of Digits / Digital Root - CodeWars**
+### 2021-11-21
+* **Create Phone Number - CodeWars**
 ---
