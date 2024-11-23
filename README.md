@@ -32,4 +32,6 @@
 * **Sum of Digits / Digital Root - CodeWars**
 ### 2021-11-21
 * **Create Phone Number - CodeWars**
+### 2021-11-23
+* **Highest and Lowest - CodeWars**
 ---
