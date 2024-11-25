@@ -36,4 +36,6 @@
 * **Highest and Lowest - CodeWars**
 ### 2021-11-24
 * **Descending Order - CodeWars**
+### 2021-11-25
+* **Bit Counting - CodeWars**
 ---
