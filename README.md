@@ -38,4 +38,6 @@
 * **Descending Order - CodeWars**
 ### 2021-11-25
 * **Bit Counting - CodeWars**
+### 2021-11-26
+* **Return Negative - CodeWars**
 ---
