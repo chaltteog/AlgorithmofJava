@@ -46,5 +46,7 @@
 * **Reversed Strings - CodeWars**
 ### 2021-11-29
 * **List Filtering - CodeWars**
+### 2021-11-30
+* **Get the Middle Character - CodeWars**
 ---
 
