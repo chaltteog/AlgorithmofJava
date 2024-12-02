@@ -49,4 +49,6 @@
 ### 2021-11-30
 * **Get the Middle Character - CodeWars**
 ---
-
+## 2024-12
+### 2021-12-02
+* **Parts of a list - CodeWars**
