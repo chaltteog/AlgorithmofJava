@@ -52,3 +52,6 @@
 ## 2024-12
 ### 2021-12-02
 * **Parts of a list - CodeWars**
+### 2021-12-03
+* **Convert a Number to a String! - CodeWars**
+* **Counting Duplicates - CodeWars**
