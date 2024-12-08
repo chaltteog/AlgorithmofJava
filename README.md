@@ -60,3 +60,5 @@
 ### 2024-12-05
 - **Convert boolean values to strings 'Yes' or 'No'. - CodeWars**
 - **Mumbling - CodeWars**
+### 2024-12-08
+- **Isograms - CodeWars**
