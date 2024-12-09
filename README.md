@@ -62,3 +62,5 @@
 - **Mumbling - CodeWars**
 ### 2024-12-08
 - **Isograms - CodeWars**
+### 2024-12-09
+- **Exes and Ohs - CodeWars**
