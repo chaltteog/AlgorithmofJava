@@ -64,3 +64,5 @@
 - **Isograms - CodeWars**
 ### 2024-12-09
 - **Exes and Ohs - CodeWars**
+### 2024-12-10
+- **Square(n) Sum - CodeWars**
