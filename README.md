@@ -68,3 +68,5 @@
 - **Square(n) Sum - CodeWars**
 ### 2024-12-11
 - **Split In Parts - CodeWars**
+### 2024-12-12
+- **Opposite number - CodeWars**
