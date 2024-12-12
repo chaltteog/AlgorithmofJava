@@ -70,3 +70,4 @@
 - **Split In Parts - CodeWars**
 ### 2024-12-12
 - **Opposite number - CodeWars**
+- **Remove First and Last Character - CodeWars**
