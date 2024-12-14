@@ -73,3 +73,5 @@
 - **Remove First and Last Character - CodeWars**
 ### 2024-12-13
 - **Duplicate Encoder - CodeWars**
+### 2024-12-14
+- **Jaden Casing Strings - CodeWars**
